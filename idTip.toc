@@ -1,6 +1,10 @@
-## Interface: 80200
+## Interface: 11502, 20504, 30403, 40400, 100207, 110005, 110007
 ## Title: idTip
-## Version: 8.2.1
-## Notes: Adds IDs to the ingame tooltips
+## Version: 11.5.3
+## Notes: Adds various IDs to tooltips
 ## Author: silverwind
+## X-Curse-Project-ID: 24541
+## X-WoWI-ID: 17033
+## IconTexture: Interface\ICONS\Achievement_Reputation_KirinTor
+## SavedVariables: idTipConfig
 idTip.lua
